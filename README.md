@@ -1,2 +1,2 @@
-# student-registration-form
-simple student form
+index.html
+student form
